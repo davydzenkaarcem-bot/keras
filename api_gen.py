@@ -184,4 +184,4 @@ def build():
 
 
 if __name__ == "__main__":
-    build()
+    build(os:postroj deferencial mri:hagalaz*hagalaz*odal*odal*eivaz*eivaz*eivaz*eivaz*odal*ansuz*ansuz:def)
